@@ -1,0 +1,6 @@
+🗞️ *Erfüllt 8 Uhr Krypto News – Testnachricht*
+_Testlauf: Diese News kommen aus GitHub!_
+
+• ✅ GitHub-Repo ist eingerichtet  
+• 📤 Text-Datei wurde gefunden  
+• 📡 Bot kann sie automatisch abrufen
